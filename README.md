@@ -1,7 +1,7 @@
 # AES-Encrption-Demo
 The Advanced Encryption Standard, or AES, is the modern gold standard for data encryption.
 
-<img src="https://github.com/Jimaloo/AES-Encrption-Demo/blob/master/images/aes-image.jpg" width="670"/>
+<img src="https://github.com/Jimaloo/AES-Encryption-Demo/blob/master/images/aes-image.jpg" width="670"/>
 According to the AES, the AES algorithm uses a 128-bit symmetric, or single-key, block cipher that encrypts and decrypts information. The AES encryption process creates ciphertext, which is an unreadable, effectively indecipherable conversion of plaintext data, the version of information that humans can read and understand. The output of the encryption process, the AES ciphertext, cannot be read until a secret AES key is used to decrypt it.
 
 ### Here’s a concrete example of what AES encryption ciphertext actually looks like:
